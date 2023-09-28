@@ -1,2 +1,1 @@
-# Item-Generator
-This is too cheating mod, I do not recommend using it in a career
+I have renamed all files and generators.
